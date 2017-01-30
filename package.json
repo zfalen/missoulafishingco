@@ -1,0 +1,11 @@
+{
+  "name": "missoula-fishing-co",
+  "version": "1.0.0",
+  "description": "MFC Website 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Zachary M. Falen",
+  "license": "MIT"
+}
